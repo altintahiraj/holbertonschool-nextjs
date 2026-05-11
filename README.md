@@ -73,4 +73,4 @@ Future Improvements
 Add role-based access (admin/user)
 Implement search and filters
 Add comments or replies to answers
-Introduce automated tests (unit & integration)
+Introduce automated tests
